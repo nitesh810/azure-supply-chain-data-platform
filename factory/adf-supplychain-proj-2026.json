@@ -1,0 +1,15 @@
+{
+	"name": "adf-supplychain-proj-2026",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westus3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3cc42c3b-3fb3-4246-8bff-5b01f87421d2",
+		"tenantId": "98823093-b8f3-4868-b963-0e3bafe09354"
+	}
+}
